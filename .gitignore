@@ -1,0 +1,5 @@
+/venv/
+/idea/
+ds.sqlite3
+SaveREMEMBER.db
+__pycache__
